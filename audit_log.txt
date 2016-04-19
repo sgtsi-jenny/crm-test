@@ -1,0 +1,1479 @@
+{
+    "data": [
+        [
+            "NONE",
+            "INITIAL START UP",
+            "2016-03-28 05:03:59"
+        ]
+    ,[
+    "Me",
+    "asdasd",
+    "2016-03-28 05:17:07"
+]
+	,[
+    "Me",
+    "asdasd",
+    "2016-03-28 05:17:18"
+]
+	,[
+    "Me",
+    "asdasd",
+    "2016-03-28 05:17:37"
+]
+	,[
+    "Me",
+    "asdasd",
+    "2016-03-28 05:17:43"
+]
+	,[
+    "Me",
+    "asdasd",
+    "2016-03-28 05:17:49"
+]
+	,[
+    "Me",
+    "asdasd",
+    "2016-03-28 05:17:49"
+]
+	,[
+    "Me",
+    "asdasd",
+    "2016-03-28 05:17:50"
+]
+	,[
+    "Me",
+    "asdasd",
+    "2016-03-28 05:17:50"
+]
+	,[
+    "Me",
+    "asdasd",
+    "2016-03-28 05:17:51"
+]
+	,[
+    "Me",
+    "asdasd",
+    "2016-03-28 05:17:51"
+]
+	,[
+    "Me",
+    "asdasd",
+    "2016-03-28 05:17:52"
+]
+	,[
+    "Me",
+    "asdasd",
+    "2016-03-28 05:17:53"
+]
+	,[
+    "Me",
+    "asdasd",
+    "2016-03-28 05:17:53"
+]
+	,[
+    "Me",
+    "asdasd",
+    "2016-03-28 05:17:54"
+]
+	,[
+    "Me",
+    "asdasd",
+    "2016-03-28 05:17:54"
+]
+	,[
+    "l,  ",
+    null,
+    "2016-03-28 09:18:54"
+]
+	,[
+    "l,  ",
+    "",
+    "2016-03-28 09:19:27"
+]
+	,[
+    "l, a ",
+    " Modified settings.",
+    "2016-03-28 09:20:34"
+]
+	,[
+    "l, a ",
+    " Modified settings.",
+    "2016-03-28 09:20:54"
+]
+	,[
+    "l, a ",
+    " Created New Employee (John Paul Bucket).",
+    "2016-03-28 09:38:39"
+]
+	,[
+    "l, a ",
+    " Created New Employee (Thea a).",
+    "2016-03-28 09:39:45"
+]
+	,[
+    "l, a ",
+    " Created New Employee (John Paul Balderas).",
+    "2016-03-28 09:42:24"
+]
+	,[
+    "l, a ",
+    " Created New Employee (John Paul Balderas).",
+    "2016-03-28 09:42:37"
+]
+	,[
+    "l, a ",
+    " Added Education to (Balderas, John Paul ).",
+    "2016-03-28 09:55:03"
+]
+	,[
+    "l, a ",
+    " Modified an Education of (Balderas, John Paul ).",
+    "2016-03-28 09:55:13"
+]
+	,[
+    "l, a ",
+    " Added Skill to (Balderas, John Paul ).",
+    "2016-03-28 09:57:49"
+]
+	,[
+    "l, a ",
+    " Added (Programming and Application Development) Skill to (Balderas, John Paul ).",
+    "2016-03-28 10:00:12"
+]
+	,[
+    "l, a ",
+    " Added Employement History (a,a) to (Balderas, John Paul ).",
+    "2016-03-28 10:18:26"
+]
+	,[
+    "l, a ",
+    " Modified Employement History (SGTSI,Sales Manager) of (Balderas, John Paul ).",
+    "2016-03-28 10:35:15"
+]
+	,[
+    "l, a ",
+    " Added () training to (Balderas, John Paul ).",
+    "2016-03-28 10:37:06"
+]
+	,[
+    "l, a ",
+    " Added (PHP Training) training to (Balderas, John Paul ).",
+    "2016-03-28 10:37:32"
+]
+	,[
+    "l, a ",
+    " Added () Certification to (Balderas, John Paul ).",
+    "2016-03-28 10:41:13"
+]
+	,[
+    "l, a ",
+    " Added (CISCO CDP) Certification to (Balderas, John Paul ).",
+    "2016-03-28 10:41:43"
+]
+	,[
+    "l, a ",
+    " Modified (CISCO CDP) Certification of (Balderas, John Paul ).",
+    "2016-03-28 10:42:29"
+]
+	,[
+    "l, a ",
+    " Uploaded (7.jpg) to (Balderas, John Paul ).",
+    "2016-03-28 10:45:19"
+]
+	,[
+    "l, a ",
+    " Added (test, ) to (Balderas, John Paul ).",
+    "2016-03-28 11:08:17"
+]
+	,[
+    "l, a ",
+    " Added (test, ) Leave to (Balderas, John Paul ).",
+    "2016-03-28 11:11:35"
+]
+	,[
+    "l, a ",
+    " Added (test, 10) Leave to (Balderas, John Paul ).",
+    "2016-03-28 11:12:07"
+]
+	,[
+    "l, a ",
+    " Modified ( 10 to 15) Leave of (Balderas, John Paul ).",
+    "2016-03-28 11:12:15"
+]
+	,[
+    "l, a ",
+    " Modified (test 10 to 10) Leave of (Balderas, John Paul ).",
+    "2016-03-28 11:14:08"
+]
+	,[
+    "l, a ",
+    " Modified (test 10 to 15) Leave of (Balderas, John Paul ).",
+    "2016-03-28 11:14:19"
+]
+	,[
+    "l, a ",
+    " Modified Employee Personal Information (John Pauls Bucket).",
+    "2016-03-29 03:38:19"
+]
+,[
+    "l, a ",
+    " Modified Employee Personal Information (John Paul Bucket).",
+    "2016-03-29 03:38:31"
+]
+,[
+    "l, a ",
+    "a  filed an overtime request.",
+    "2016-03-29 03:39:12"
+]
+	,[
+    "l, a ",
+    "a l filed an attendance adjustment request.",
+    "2016-03-29 04:12:38"
+]
+,[
+    "l, a ",
+    "a l filed an overtime request. From 2016-03-29 09:39:00 To 2016-03-30 09:39:00 for 1.75 Hours",
+    "2016-03-29 10:19:06"
+]
+,[
+    "l, a ",
+    "a l filed an attendance adjustment request. Add 2016-03-29 10:27:00-2016-03-30 10:27:00",
+    "2016-03-29 10:27:55"
+]
+,[
+    "l, a ",
+    "a l filed an attendance adjustment request. From 2016-03-23 10:24:20-2016-03-23 10:24:35 to 2016-03-23 10:24:00-2016-03-29 18:24:00",
+    "2016-03-29 10:30:26"
+]
+,[
+    "l, a ",
+    "a l filed a shift change request. From 10:30:00-18:30:00 to 10:30:00-15:30:00 during 2016-12-31 00:00:00-2016-12-31 00:00:00.",
+    "2016-03-29 10:39:24"
+]
+,[
+    "l, a ",
+    "a l filed a shift change request. From 10:30:00-18:30:00 to 10:30:00-15:30:00 during 2016-12-31-2016-12-31",
+    "2016-03-29 10:42:06"
+]
+,[
+    "l, a ",
+    "a l filed a shift change request. From 10:30:00-18:30:00 to 10:30:00-15:30:00 during 2016-12-31 - 2016-12-31",
+    "2016-03-29 10:42:41"
+]
+,[
+    "l, a ",
+    "a l filed an official business request. Went to Japan for Go to Enchanted Kingdom during 2016-03-31 - 2016-04-01",
+    "2016-03-29 10:53:27"
+]
+,[
+    "l, a ",
+    "a l filed an official business request. Destination: Japan. Purpose: Go to Enchanted Kingdom during 2016-03-31 - 2016-04-01",
+    "2016-03-29 10:55:26"
+]
+	,[
+    "l, a ",
+    "a l filed a leave (Leave Without Pay) request. From 2016-01-01 to 2016-01-02. Reason: j",
+    "2016-03-29 11:18:48"
+]
+,[
+    "Jones, John  j",
+    "Approved a l's overtime request. From 2016-03-23 11:18:00 To 2016-03-23 11:18:00 for  Hours",
+    "2016-03-29 11:30:50"
+]
+,[
+    "Jones, John  j",
+    "Approved a l's overtime request. From 2016-03-23 11:18:00 To 2016-03-23 11:18:00 for 1 Hours",
+    "2016-03-29 11:31:17"
+]
+,[
+    "Jones, John  j",
+    "Approved a l's overtime request. From 2016-03-23 11:18:00 To 2016-03-23 11:18:00 for 1 Hours. Worked to be done:fjjhgg",
+    "2016-03-29 11:34:44"
+]
+,[
+    "Jones, John  j",
+    "Approved a l's overtime request. From 2016-03-29 09:28:00 To 2016-03-30 09:28:00 for 1.5 Hours. Worked to be done:This is a test.",
+    "2016-03-29 11:35:10"
+]
+,[
+    "l, a ",
+    "Approved a l's overtime request. From 2016-03-23 11:18:00 To 2016-03-23 11:18:00 for 1 Hours. Worked to be done:fjjhgg",
+    "2016-03-29 11:42:07"
+]
+,[
+    "l, a ",
+    "(Final Approver) Approved a l's overtime request. From 2016-03-29 09:28:00 To 2016-03-30 09:28:00 for 1.5 Hours. Worked to be done:This is a test.",
+    "2016-03-29 13:30:21"
+]
+,[
+    "Jones, John  j",
+    "(Supervisor) Rejected a l's overtime request. The reason given is 'reason1. From 2016-03-29 09:28:00 To 2016-03-30 09:28:00 for 1.5 Hours. Worked to be done:This is a test.",
+    "2016-03-29 13:37:20"
+]
+,[
+    "Jones, John  j",
+    "(Supervisor) Approved a l's overtime request. From 2016-03-29 09:33:00 To 2016-03-31 09:33:00 for 1 Hours. Worked to be done:asdasd",
+    "2016-03-29 13:40:00"
+]
+,[
+    "l, a ",
+    "(Final Approver) Rejected a l's overtime request. The reason given is 'Rejection2'. From 2016-03-29 09:33:00 To 2016-03-31 09:33:00 for 1 Hours. Worked to be done:asdasd",
+    "2016-03-29 13:40:51"
+]
+,[
+    "l, a ",
+    "a l filed a leave (Leave Without Pay) request. From 2015-12-31 to 2015-12-31. Reason: THis is a reason",
+    "2016-03-29 13:49:43"
+]
+,[
+    "Jones, John  j",
+    "(Supervisor) Approved a l's leave () request. From 2015-12-31 To 2015-12-31. Reason for leaving: THis is a reason",
+    "2016-03-29 13:58:33"
+]
+,[
+    "l, a ",
+    "(Final Approver) Approved a l's leave (Leave Without Pay) request. From 2015-12-31 To 2015-12-31. Reason for leave: THis is a reason",
+    "2016-03-29 14:04:19"
+]
+,[
+    "Jones, John  j",
+    "(Supervisor) Approved a l's leave (Leave Without Pay) request. From 2015-12-31 To 2015-12-31. Reason for leave: THis is a reason",
+    "2016-03-29 14:05:33"
+]
+,[
+    "l, a ",
+    "(Final Approver) Rejected a l's leave (Leave Without Pay) request. The reason given is 'fcghjkl'. From 2015-12-31 To 2015-12-31. Reason for leave: THis is a reason",
+    "2016-03-29 14:17:03"
+]
+,[
+    "Jones, John  j",
+    "(Supervisor) Approved a l's leave (Leave Without Pay) request. From 2016-01-01 To 2016-01-02. Reason for leave: j",
+    "2016-03-29 14:59:33"
+]
+,[
+    "Jones, John  j",
+    "(Supervisor) Approved a l's attendance adjustment request. From 2016-03-23 10:24:20-2016-03-23 10:24:35 to 2016-03-23 10:24:00-2016-03-23 17:24:00. Adjustment Reason:This Reason",
+    "2016-03-29 15:08:58"
+]
+,[
+    "l, a ",
+    "(Final Approver) Approved a l's attendance adjustment request. From 2016-03-23 10:24:20-2016-03-23 10:24:35 to 2016-03-23 10:24:00-2016-03-23 17:24:00. Adjustment Reason:This Reason",
+    "2016-03-29 15:09:20"
+]
+,[
+    "Jones, John  j",
+    "(Supervisor) Rejected a l's attendance adjustment request. The reason given is 'rejected'. From 2016-03-19 17:20:00-2016-03-19 17:20:00 to 2016-03-19 17:20:00-2016-03-19 17:20:00. Adjustment Reason:Test Adjusted.",
+    "2016-03-29 15:09:57"
+]
+,[
+    "Jones, John  j",
+    "(Supervisor) Approved a l's attendance adjustment request. From 2016-03-19 17:20:00-2016-03-19 17:20:00 to 2016-03-19 17:20:00-2016-03-19 17:20:00. Adjustment Reason:Test Adjusted.",
+    "2016-03-29 15:11:48"
+]
+,[
+    "l, a ",
+    "(Final Approver) Rejected a l's attendance adjustment request. The reason given is 'Booyah'. From 2016-03-19 17:20:00-2016-03-19 17:20:00 to 2016-03-19 17:20:00-2016-03-19 17:20:00. Adjustment Reason:Test Adjusted.",
+    "2016-03-29 15:13:31"
+]
+,[
+    "Jones, John  j",
+    "(Supervisor) Approved a l's change shift request. From - to - during 1970-01-01 - 1970-01-01",
+    "2016-03-29 15:17:06"
+]
+,[
+    "Jones, John  j",
+    "(Supervisor) Approved a l's change shift request. From 01:45:00-01:45:00 to 08:45:00-05:30:00 during 2016-04-01 - 1970-01-01",
+    "2016-03-29 15:19:47"
+]
+,[
+    "Jones, John  j",
+    "(Supervisor) Rejected a l's change shift request. The reason given is 'reject'. From 01:45:00-01:45:00 to 08:45:00-05:30:00 during 2016-04-01 - 1970-01-01",
+    "2016-03-29 15:21:09"
+]
+,[
+    "Jones, John  j",
+    "(Supervisor) Approved a l's change shift request. From 01:45:00-01:45:00 to 08:45:00-05:30:00 during 2016-04-01 - 1970-01-01",
+    "2016-03-29 15:21:39"
+]
+,[
+    "l, a ",
+    "(Final Approver) Approved a l's change shift request. From 01:45:00-01:45:00 to 08:45:00-05:30:00 during 2016-04-01 - 1970-01-01",
+    "2016-03-29 15:23:32"
+]
+,[
+    "l, a ",
+    "(Final Approver) Approved a l's change shift request. From 01:45:00-01:45:00 to 08:45:00-05:30:00 during 2016-04-01 - 2016-04-10",
+    "2016-03-29 15:24:31"
+]
+,[
+    "Jones, John  j",
+    "(Supervisor) Approved a l's official business request. Destination: White Horse. Purpose: Make it rain!!! during 2016-03-15 - 2016-03-15",
+    "2016-03-29 15:28:12"
+]
+,[
+    "Jones, John  j",
+    "(Supervisor) Rejected a l's official business request. The reason given is 'nein'. Destination: White Horse. Purpose: Make it rain!!! during 2016-03-15 - 2016-03-15",
+    "2016-03-29 15:29:20"
+]
+,[
+    "Jones, John  j",
+    "(Supervisor) Approved a l's official business request. Destination: White Horse. Purpose: Make it rain!!! during 2016-03-15 - 2016-03-15",
+    "2016-03-29 15:33:37"
+]
+,[
+    "l, a ",
+    "(Final Approver) Approved a l's official business request. Destination: White Horse. Purpose: Make it rain!!! during 2016-03-15 - 2016-03-15",
+    "2016-03-29 15:34:00"
+]
+,[
+    "l, a ",
+    "(Final Approver) Rejected a l's official business request. The reason given is 'lel'. Destination: White Horse. Purpose: Make it rain!!! during 2016-03-15 - 2016-03-15",
+    "2016-03-29 15:34:37"
+]
+,[
+    "l, a ",
+    "(Final Approver) Approved a l's official business request. Destination: White Horse. Purpose: Make it rain!!! during 2016-03-15 - 2016-03-15",
+    "2016-03-29 15:34:57"
+]
+,[
+    "Jones, John  j",
+    "(Supervisor) queried a l's Official Business request. Destination: Japan. Purpose: Go to Enchanted Kingdom during 2016-03-31 - 2016-04-01",
+    "2016-03-29 16:05:31"
+]
+,[
+    "l, a ",
+    "Answered John  Jones's (Supervisor) Query for Official Business request. Answer:Anserr.  Destination: Japan. Purpose: Go to Enchanted Kingdom during 2016-03-31 - 2016-04-01",
+    "2016-03-29 16:07:41"
+]
+,[
+    "Jones, John  j",
+    "(Supervisor) queried a l's Official Business request. Query:tyhj. Destination: Japan. Purpose: Go to Enchanted Kingdom during 2016-03-31 - 2016-04-01",
+    "2016-03-29 16:12:25"
+]
+,[
+    "l, a ",
+    "Answered (Supervisor) John  Jones's Query for Official Business request. Answer:fghjk.  Destination: Japan. Purpose: Go to Enchanted Kingdom during 2016-03-31 - 2016-04-01",
+    "2016-03-29 16:12:40"
+]
+,[
+    "Jones, John  j",
+    "(Supervisor) Approved a l's official business request. Destination: Japan. Purpose: Go to Enchanted Kingdom during 2016-03-31 - 2016-04-01",
+    "2016-03-29 16:13:15"
+]
+,[
+    "l, a ",
+    "(Final Approver) queried a l's Leave request. Query:tyu. () From 2016-01-01 To 2016-01-02. Reason for leave: j",
+    "2016-03-29 16:14:26"
+]
+,[
+    "l, a ",
+    "Answered (Final Approver) a l's Query for Leave request. Answer:uh . (Leave Without Pay) From 2016-01-01 To 2016-01-02. Reason for leave: j",
+    "2016-03-29 16:15:58"
+]
+,[
+    "Jones, John  j",
+    "(Supervisor) queried a l's Official Business request. Query:klj. Destination: d. Purpose: asdasd during 2016-03-28 - 2016-03-28",
+    "2016-03-29 16:18:09"
+]
+,[
+    "Jones, John  j",
+    "Answered (Supervisor) John  Jones's Query for Official Business request. Answer:klj.  Destination: d. Purpose: asdasd during 2016-03-28 - 2016-03-28",
+    "2016-03-29 16:18:12"
+]
+,[
+    "l, a ",
+    "Answered (Final Approver) John  Jones's Query for Official Business request. Answer:yo?\r\n . Destination: Hawaii. Purpose: Brian Purpose during 2016-03-01 - 2016-03-01",
+    "2016-03-29 16:20:29"
+]
+,[
+    "l, a ",
+    " Modified an Education of (Balderas, John Paul ).",
+    "2016-03-29 17:10:53"
+]
+,[
+    "l, a ",
+    "Deleted (Education) College Level from John Paul Balderas.",
+    "2016-03-29 17:13:31"
+]
+,[
+    "l, a ",
+    "Deleted (Education) MIT from John Paul Balderas.",
+    "2016-03-29 17:14:43"
+]
+,[
+    "l, a ",
+    "Deleted (Skill) Programming and Application Development from John Paul Balderas.",
+    "2016-03-29 17:15:07"
+]
+,[
+    "l, a ",
+    "Deleted (Employment History) Sales Manager (SGTSI) from John Paul Balderas.",
+    "2016-03-29 17:15:26"
+]
+,[
+    "l, a ",
+    "Deleted (Training) Test Training from John Paul Balderas.",
+    "2016-03-29 17:16:01"
+]
+,[
+    "l, a ",
+    "Deleted (Certifications) CISCO CDP from John Paul Balderas.",
+    "2016-03-29 17:16:14"
+]
+,[
+    "l, a ",
+    "Deleted (File)  from John Paul Balderas.",
+    "2016-03-29 17:16:31"
+]
+,[
+    "l, a ",
+    "Deleted (File) 1.jpg.jpg from John Paul Balderas.",
+    "2016-03-29 17:17:20"
+]
+,[
+    "l, a ",
+    "Deleted (Leave) test from John Paul Balderas.",
+    "2016-03-29 17:17:31"
+]
+,[
+    "l, a ",
+    "Cancelled leave () request. From 2016-01-01 To 2016-01-02. Reason for leave: j",
+    "2016-03-30 10:13:25"
+]
+,[
+    "l, a ",
+    "Cancelled leave () request. From 2016-01-01 To 2016-01-02. Reason for leave: j",
+    "2016-03-30 10:14:22"
+]
+,[
+    "l, a ",
+    "Cancelled leave () request. From 2016-01-01 To 2016-01-02. Reason for leave: j",
+    "2016-03-30 10:14:32"
+]
+,[
+    "l, a ",
+    "Cancelled leave () request. From 2016-01-01 To 2016-01-02. Reason for leave: j",
+    "2016-03-30 10:15:01"
+]
+,[
+    "l, a ",
+    "Cancelled leave () request. From 2016-01-01 To 2016-01-02. Reason for leave: j",
+    "2016-03-30 10:16:20"
+]
+,[
+    "l, a ",
+    "Cancelled leave (Leave Without Pay) request. From 2016-01-01 To 2016-01-02. Reason for leave: j",
+    "2016-03-30 10:17:05"
+]
+,[
+    "l, a ",
+    "Cancelled overtime request. From 2016-03-29 09:39:00 To 2016-03-30 09:39:00 for 1.75 Hours. Worked to be done:asdlkj",
+    "2016-03-30 10:19:53"
+]
+,[
+    "l, a ",
+    "Cancelled attendance adjustment request. From 0000-00-00 00:00:00-0000-00-00 00:00:00 to 2016-03-18 17:18:00-2016-03-18 17:18:00. Adjustment Reason:hjkl",
+    "2016-03-30 10:23:10"
+]
+,[
+    "l, a ",
+    "Cancelled attendance adjustment request. Add -",
+    "2016-03-30 10:27:52"
+]
+,[
+    "l, a ",
+    "Cancelled attendance adjustment request. Add -",
+    "2016-03-30 10:28:21"
+]
+,[
+    "l, a ",
+    "Cancelled attendance adjustment request. Add 2016-03-18 17:18:00-2016-03-18 17:18:00",
+    "2016-03-30 10:28:31"
+]
+,[
+    "l, a ",
+    "Cancelled attendance adjustment request. Add 2016-03-18 17:18:00-2016-03-18 17:18:00",
+    "2016-03-30 10:28:46"
+]
+,[
+    "l, a ",
+    "Cancelled attendance adjustment request. Add 2016-03-18 17:18:00-2016-03-18 17:18:00",
+    "2016-03-30 10:28:52"
+]
+,[
+    "Jones, John  j",
+    "(Supervisor) queried a l's Overtime request. Query:8\r\n. From 2016-03-29 09:39:00 To 2016-03-30 09:39:00 for 1.75 Hours. Worked to be done:asdlkj",
+    "2016-03-30 10:39:01"
+]
+,[
+    "l, a ",
+    "Added attendance for John  Jones. Time in: 2016-03-30 08:00:00. Time out: 2016-03-30 21:00:00 ",
+    "2016-03-30 11:23:44"
+]
+,[
+    "l, a ",
+    "Modified attendance of John  Jones. From 2016-03-30 08:00:00 - 2016-03-30 21:00:00 To 2016-03-30 08:00:00 - 2016-03-30 20:00:00 ",
+    "2016-03-30 11:24:30"
+]
+,[
+    "l, a ",
+    "a l filed an overtime request. From 2016-03-30 11:24:00 To 2016-03-30 14:24:00 for 1 Hours. Worked to be done:asd",
+    "2016-03-30 11:25:09"
+]
+,[
+    "l, a ",
+    "Added attendance for jordan  alemania. Time in: 2016-03-30 08:00:00. Time out: 2016-03-30 13:00:00 ",
+    "2016-03-30 11:37:55"
+]
+,[
+    "l, a ",
+    "Added attendance for John Paul Bucket. Time in: 2016-03-30 08:00:00. Time out: 2016-03-30 14:00:00 ",
+    "2016-03-30 11:47:01"
+]
+	,[
+    "l, a ",
+    " Uploaded (1.jpg.jpg) to company files.",
+    "2016-03-30 13:54:41"
+]
+,[
+    "l, a ",
+    "Deleted Company File .",
+    "2016-03-30 13:55:04"
+]
+,[
+    "l, a ",
+    "Deleted Company File bg (2).jpg.",
+    "2016-03-30 13:56:10"
+]
+	,[
+    "Albelda, Trixia Cayunda",
+    " Created New Employee (Ram Pam).",
+    "2016-03-30 15:07:42"
+]
+,[
+    "Albelda, Trixia Cayunda",
+    " Modified Employee Personal Information (Trixia Albelda).",
+    "2016-03-30 15:18:36"
+]
+	,[
+    "l, a ",
+    "Added 2 Leave (Array) to James Bond.",
+    "2016-03-30 16:30:29"
+]
+,[
+    "l, a ",
+    "Deleted (Leave) test from James Bond.",
+    "2016-03-30 16:31:03"
+]
+,[
+    "l, a ",
+    "Added 4 Leave (test) to James Bond.",
+    "2016-03-30 16:31:13"
+]
+,[
+    "l, a ",
+    "Modified  Leave (Array) changed available leaves from 10 to 6 of James Bond.",
+    "2016-03-30 16:36:20"
+]
+,[
+    "l, a ",
+    "Modified  Leave (test) changed available leaves from 6 to 10 of James Bond.",
+    "2016-03-30 16:36:39"
+]
+,[
+    "l, a ",
+    "Reset Leave (Leave Without Pay) of James Bond.",
+    "2016-03-30 16:39:40"
+]
+,[
+    "l, a ",
+    "Reset Leave () with 15 of James Bond.",
+    "2016-03-30 16:41:52"
+]
+,[
+    "l, a ",
+    "Reset Leave (test). Available leave 10 of James Bond.",
+    "2016-03-30 16:43:06"
+]
+,[
+    "l, a ",
+    "Restored terminated employee James Bond.",
+    "2016-03-31 09:44:12"
+]
+,[
+    "l, a ",
+    "Restored terminated employee James Bond.",
+    "2016-03-31 09:44:46"
+]
+,[
+    "l, a ",
+    "Terminated employee James Bond.",
+    "2016-03-31 09:45:10"
+]
+,[
+    "l, a ",
+    "Terminated employee Thea a.",
+    "2016-03-31 09:50:07"
+]
+,[
+    "l, a ",
+    "Deleted Thea a from employees.",
+    "2016-03-31 09:50:23"
+]
+,[
+    "l, a ",
+    "a l filed an attendance adjustment request. From 2016-03-23 10:24:00-2016-03-23 17:24:00 to 2016-03-23 10:24:00-2016-03-23 18:24:00",
+    "2016-03-31 11:28:57"
+]
+,[
+    "l, a ",
+    " Created New Employee (John Doe).",
+    "2016-03-31 12:09:10"
+]
+,[
+    "l, a ",
+    " Created New Employee (Sarah Fortune).",
+    "2016-03-31 12:12:19"
+]
+,[
+    "Doe, John ",
+    "John Doe filed an official business request. Destination: Quezon City. Purpose: Find Clients during 2016-03-31 - 2016-03-31",
+    "2016-03-31 12:27:46"
+]
+,[
+    "Doe, John ",
+    " Modified Employee Personal Information (Sarah Fortune).",
+    "2016-03-31 12:33:21"
+]
+,[
+    "Doe, John ",
+    " Modified Employee Personal Information (John Doe).",
+    "2016-03-31 12:33:34"
+]
+,[
+    "Doe, John ",
+    "John Doe filed an official business request. Destination: Quezon City. Purpose: Find Clients during 2016-03-31 - 2016-03-31",
+    "2016-03-31 12:33:53"
+]
+,[
+    "Doe, John ",
+    "John Doe filed a shift change request. From 12:30:00-13:30:00 to 12:30:00-16:30:00 during 2016-12-31 - 2016-12-31",
+    "2016-03-31 12:41:57"
+]
+,[
+    "Doe, John ",
+    "John Doe filed a shift change request. From 12:30:00-13:30:00 to 12:30:00-16:30:00 during 2016-12-31 - 2016-12-31",
+    "2016-03-31 12:42:26"
+]
+,[
+    "Doe, John ",
+    "John Doe filed a shift change request. From 12:30:00-13:30:00 to 12:30:00-16:30:00 during 2016-12-31 - 2016-12-31",
+    "2016-03-31 12:46:18"
+]
+,[
+    "Doe, John ",
+    "John Doe filed an attendance adjustment request. From 2016-03-31 12:47:21-2016-03-31 12:47:25 to 2016-03-31 08:47:00-2016-03-31 13:47:00",
+    "2016-03-31 12:47:51"
+]
+,[
+    "Doe, John ",
+    "Cancelled attendance adjustment request. From 2016-03-31 12:47:21-2016-03-31 12:47:25 to 2016-03-31 08:47:00-2016-03-31 13:47:00. Adjustment Reason:Adjust",
+    "2016-03-31 12:49:07"
+]
+,[
+    "Doe, John ",
+    "John Doe filed an attendance adjustment request. From 2016-03-31 12:47:21-2016-03-31 12:47:25 to 2016-03-31 08:47:00-2016-03-31 17:47:00",
+    "2016-03-31 12:49:21"
+]
+,[
+    "Doe, John ",
+    "John Doe filed an attendance adjustment request. From 2016-03-31 12:47:21-2016-03-31 12:47:25 to 2016-03-31 07:47:00-2016-03-31 17:47:00",
+    "2016-03-31 13:00:00"
+]
+,[
+    "Doe, John ",
+    "John Doe filed an attendance adjustment request. From 2016-03-31 12:47:21-2016-03-31 12:47:25 to 2016-03-31 07:47:00-2016-03-31 17:47:00",
+    "2016-03-31 13:01:01"
+]
+,[
+    "Doe, John ",
+    "John Doe filed an attendance adjustment request. From 2016-03-31 12:47:21-2016-03-31 12:47:25 to 2016-03-31 07:47:00-2016-03-31 17:47:00",
+    "2016-03-31 13:01:09"
+]
+,[
+    "Fortune, Sarah ",
+    "Sarah Fortune filed an attendance adjustment request. From 2016-03-31 13:04:45-2016-03-31 13:04:50 to 2016-03-31 08:04:00-2016-03-31 18:04:00",
+    "2016-03-31 13:05:17"
+]
+,[
+    "Doe, John ",
+    "Added attendance for John Doe. Time in: 2016-03-31 08:00:00. Time out: 2016-03-31 18:00:00 ",
+    "2016-03-31 17:11:41"
+]
+,[
+    "Doe, John ",
+    "Deleted Delete This from skills.",
+    "2016-03-31 17:19:38"
+]
+,[
+    "Doe, John ",
+    "Deleted Delete this from skills.",
+    "2016-03-31 17:22:30"
+]
+,[
+    "Doe, John ",
+    "Deleted Test Training from trainings.",
+    "2016-03-31 17:22:40"
+]
+,[
+    "Doe, John ",
+    "Deleted Delete this from certifications.",
+    "2016-03-31 17:25:18"
+]
+	,[
+    "Doe, John ",
+    " Modified Employee Personal Information (John Doe).",
+    "2016-04-01 13:35:18"
+]
+,[
+    "Fortune, Sarah ",
+    "Sarah Fortune filed a shift change request. From 13:30:00-14:30:00 to 13:30:00-15:30:00 during 2016-12-31 - 2016-12-31",
+    "2016-04-01 13:37:19"
+]
+,[
+    "Doe, John ",
+    "(Supervisor) Approved Sarah Fortune's change shift request. From 13:30:00-14:30:00 to 13:30:00-15:30:00 during 2016-12-31 - 2016-12-31",
+    "2016-04-01 13:37:59"
+]
+,[
+    "Doe, John ",
+    " Modified Employee Personal Information (Sarah Fortune).",
+    "2016-04-01 13:39:22"
+]
+,[
+    "Doe, John ",
+    "(Final Approver) queried Sarah Fortune's Change Shift request. Query:This. From 13:30:00-14:30:00 to 13:30:00-15:30:00 during 2016-12-31 - 2016-12-31",
+    "2016-04-01 13:40:14"
+]
+,[
+    "Fortune, Sarah ",
+    "Answered (Final Approver) John Doe's Query for Change Shift request. Answer:Is a test . From 13:30:00-14:30:00 to 13:30:00-15:30:00 during 2016-12-31 - 2016-12-31",
+    "2016-04-01 13:43:05"
+]
+,[
+    "Doe, John ",
+    " Modified Employee Personal Information (John Doe).",
+    "2016-04-04 09:50:18"
+]
+,[
+    "Doe, John ",
+    " Modified Employee Personal Information (John Doe).",
+    "2016-04-04 09:53:17"
+]
+,[
+    "Doe, John ",
+    " Modified Employee Personal Information (John Doe).",
+    "2016-04-04 09:54:37"
+]
+,[
+    "Doe, John ",
+    " Modified Employee Personal Information (John Doe).",
+    "2016-04-04 09:54:44"
+]
+,[
+    "Doe, John ",
+    " Modified Employee Personal Information (John Doe).",
+    "2016-04-04 09:54:55"
+]
+,[
+    "Doe, John ",
+    " Modified Employee Personal Information (John Doe).",
+    "2016-04-04 09:55:12"
+]
+,[
+    "Doe, John ",
+    " Modified Employee Personal Information (John Doe).",
+    "2016-04-04 09:56:12"
+]
+,[
+    "Doe, John ",
+    " Modified Employee Personal Information (John Doe).",
+    "2016-04-04 10:00:07"
+]
+,[
+    "Doe, John ",
+    " Modified Employee Personal Information (John Doe).",
+    "2016-04-04 10:00:17"
+]
+,[
+    "Doe, John ",
+    "John Doe filed an overtime request. From 2016-04-04 10:02:00 To 2016-04-04 13:02:00 for 1 Hours. Worked to be done:test",
+    "2016-04-04 10:02:35"
+]
+,[
+    "Doe, John ",
+    "Cancelled overtime request. From 2016-04-04 10:02:00 To 2016-04-04 13:02:00 for 1 Hours. Worked to be done:test",
+    "2016-04-04 10:02:56"
+]
+,[
+    "Doe, John ",
+    "John Doe filed an overtime request. From 2016-04-04 10:04:00 To 2016-04-04 12:04:00 for 1 Hours. Worked to be done:This is a teset",
+    "2016-04-04 10:04:52"
+]
+,[
+    "Doe, John ",
+    "Cancelled overtime request. From 2016-04-04 10:04:00 To 2016-04-04 12:04:00 for 1 Hours. Worked to be done:This is a teset",
+    "2016-04-04 10:05:00"
+]
+,[
+    "Doe, John ",
+    " Created New Employee (Sarah Fortune).",
+    "2016-04-04 10:40:26"
+]
+	,[
+    "Doe, John ",
+    "John Doe filed an attendance adjustment request. Add 2016-04-04 12:37:00-2016-04-04 14:37:00",
+    "2016-04-04 12:37:34"
+]
+,[
+    "Doe, John ",
+    "John Doe filed a shift change request. From 12:30:00-13:30:00 to 12:30:00-16:30:00 during 2016-12-31 - 2016-12-31",
+    "2016-04-04 12:38:18"
+]
+,[
+    "Doe, John ",
+    " Modified Employee Personal Information (John Doe).",
+    "2016-04-04 12:47:26"
+]
+,[
+    "Doe, John ",
+    " Added Education to (Doe, John ).",
+    "2016-04-04 12:56:10"
+]
+,[
+    "Doe, John ",
+    " Modified an Education of (Doe, John ).",
+    "2016-04-04 12:59:41"
+]
+,[
+    "Doe, John ",
+    " Added (Project Management) Skill to (Doe, John ).",
+    "2016-04-04 13:02:36"
+]
+,[
+    "Doe, John ",
+    "John Doe filed a leave (Sick Leave) request. From 2015-12-31 to 2016-01-05. Reason: -",
+    "2016-04-04 13:11:10"
+]
+,[
+    "Doe, John ",
+    "(Final Approver) Approved John Doe's leave (Sick Leave) request. From 2015-12-31 To 2016-01-05. Reason for leave: -",
+    "2016-04-04 13:12:08"
+]
+,[
+    "Doe, John ",
+    "John Doe filed an overtime request. From 2016-01-01 13:28:00 To 2016-01-01 15:28:00 for 2 Hours. Worked to be done:-",
+    "2016-04-04 13:29:25"
+]
+,[
+    "Doe, John ",
+    "John Doe filed an overtime request. From 2016-01-06 13:29:00 To 2016-04-06 15:29:00 for 1 Hours. Worked to be done:-",
+    "2016-04-04 13:30:01"
+]
+,[
+    "Doe, John ",
+    "(Final Approver) Approved John Doe's overtime request. From 2016-01-01 13:28:00 To 2016-01-01 15:28:00 for 2 Hours. Worked to be done:-",
+    "2016-04-04 13:30:45"
+]
+,[
+    "Doe, John ",
+    "(Final Approver) Approved John Doe's overtime request. From 2016-01-06 13:29:00 To 2016-04-06 15:29:00 for 1 Hours. Worked to be done:-",
+    "2016-04-04 13:30:49"
+]
+,[
+    "l, a ",
+    " Modified Employee Personal Information (Damian Wayne).",
+    "2016-04-05 09:37:24"
+]
+,[
+    "l, a ",
+    "Deleted John Paul Balderas from employees.",
+    "2016-04-05 09:38:21"
+]
+,[
+    "l, a ",
+    "Deleted John Paul Balderas from employees.",
+    "2016-04-05 09:38:26"
+]
+,[
+    "l, a ",
+    "Deleted John Paul Balderas from employees.",
+    "2016-04-05 09:38:31"
+]
+,[
+    "l, a ",
+    " Added Emergency Contact (Jane Doe) to (Wayne, Damian ).",
+    "2016-04-05 15:25:48"
+]
+,[
+    "l, a ",
+    " Modified an Emergency Contact (Jane Does) of (Wayne, Damian ).",
+    "2016-04-05 15:25:58"
+]
+,[
+    "l, a ",
+    " Modified an Emergency Contact (Jane Does) of (Wayne, Damian ).",
+    "2016-04-05 15:26:10"
+]
+,[
+    "l, a ",
+    " Modified an Emergency Contact (Jane Does) of (Wayne, Damian ).",
+    "2016-04-05 15:26:51"
+]
+,[
+    "l, a ",
+    " Modified an Emergency Contact (Jane Does) of (Wayne, Damian ).",
+    "2016-04-05 15:26:57"
+]
+,[
+    "l, a ",
+    " Added Emergency Contact (- -) to (Wayne, Damian ).",
+    "2016-04-05 15:27:11"
+]
+,[
+    "l, a ",
+    "Deleted (Emergency Contact) - - from Damian Wayne.",
+    "2016-04-05 15:32:26"
+]
+,[
+    "l, a ",
+    "Deleted (Emergency Contact) - - from Damian Wayne.",
+    "2016-04-05 15:32:34"
+]
+,[
+    "l, a ",
+    "Deleted Delete this from skills.",
+    "2016-04-06 09:28:58"
+]
+,[
+    "l, a ",
+    "Deleted Delete this from skills.",
+    "2016-04-06 09:29:37"
+]
+,[
+    "l, a ",
+    "Deleted Delete this from trainings.",
+    "2016-04-06 09:30:44"
+]
+,[
+    "l, a ",
+    "Deleted Delete this from certifications.",
+    "2016-04-06 09:31:41"
+]
+,[
+    "l, a ",
+    "Deleted Delete This from job titles.",
+    "2016-04-06 11:14:34"
+]
+,[
+    "l, a ",
+    "Deleted Vacation Leave from leaves.",
+    "2016-04-06 11:15:15"
+]
+,[
+    "l, a ",
+    "Deleted Delete this from departments.",
+    "2016-04-06 11:16:44"
+]
+,[
+    "l, a ",
+    "Deleted Delete from tax status.",
+    "2016-04-06 11:17:34"
+]
+,[
+    "l, a ",
+    "Deleted Delete this from pay grade.",
+    "2016-04-06 11:18:18"
+]
+,[
+    "l, a ",
+    "Deleted Internship from employment status.",
+    "2016-04-06 11:18:49"
+]
+,[
+    "l, a ",
+    "a l filed an overtime request. From 2016-04-05 17:21:00 To 2016-04-05 18:21:00 for 1 Hours. Worked to be done:Unit Testing",
+    "2016-04-06 11:21:46"
+]
+,[
+    "Jones, John  j",
+    "(Supervisor) queried a l's Overtime request. Query:What will you unit test?. From 2016-04-05 17:21:00 To 2016-04-05 18:21:00 for 1 Hours. Worked to be done:Unit Testing",
+    "2016-04-06 11:24:45"
+]
+,[
+    "l, a ",
+    "Answered (Supervisor) John  Jones's Query for Overtime request. Answer:Accounting System.  From 2016-04-05 17:21:00 To 2016-04-05 18:21:00 for 1 Hours. Worked to be done:Unit Testing",
+    "2016-04-06 11:25:38"
+]
+,[
+    "l, a ",
+    "(Supervisor) queried a l's Overtime request. Query:Accounting System. From 2016-04-05 17:21:00 To 2016-04-05 18:21:00 for 1 Hours. Worked to be done:Unit Testing",
+    "2016-04-06 11:25:43"
+]
+,[
+    "l, a ",
+    "Answered (Supervisor) John  Jones's Query for Overtime request. Answer:Accounting.  From 2016-04-05 17:21:00 To 2016-04-05 18:21:00 for 1 Hours. Worked to be done:Unit Testing",
+    "2016-04-06 11:27:41"
+]
+,[
+    "l, a ",
+    "(Supervisor) queried a l's Overtime request. Query:Accounting. From 2016-04-05 17:21:00 To 2016-04-05 18:21:00 for 1 Hours. Worked to be done:Unit Testing",
+    "2016-04-06 11:28:55"
+]
+,[
+    "l, a ",
+    "(Supervisor) queried a l's Overtime request. Query:Accounting. From 2016-04-05 17:21:00 To 2016-04-05 18:21:00 for 1 Hours. Worked to be done:Unit Testing",
+    "2016-04-06 11:29:57"
+]
+,[
+    "l, a ",
+    "Answered (Supervisor) John  Jones's Query for Overtime request. Answer:Accounting System.  From 2016-04-05 17:21:00 To 2016-04-05 18:21:00 for 1 Hours. Worked to be done:Unit Testing",
+    "2016-04-06 11:30:44"
+]
+,[
+    "Jones, John  j",
+    "(Supervisor) queried a l's Overtime request. Query:What will you unit test?. From 2016-04-05 17:21:00 To 2016-04-05 18:21:00 for 1 Hours. Worked to be done:Unit Testing",
+    "2016-04-06 11:32:54"
+]
+,[
+    "l, a ",
+    "Answered (Supervisor) John  Jones's Query for Overtime request. Answer:Accounting System.  From 2016-04-05 17:21:00 To 2016-04-05 18:21:00 for 1 Hours. Worked to be done:Unit Testing",
+    "2016-04-06 11:33:27"
+]
+,[
+    "Jones, John  j",
+    "(Supervisor) Approved a l's overtime request. From 2016-04-05 17:21:00 To 2016-04-05 18:21:00 for 1 Hours. Worked to be done:Unit Testing",
+    "2016-04-06 11:34:19"
+]
+,[
+    "l, a ",
+    "(Final Approver) queried a l's Overtime request. Query:Why is this delayed?. From 2016-04-05 17:21:00 To 2016-04-05 18:21:00 for 1 Hours. Worked to be done:Unit Testing",
+    "2016-04-06 11:35:31"
+]
+,[
+    "l, a ",
+    "Answered (Final Approver) a l's Query for Overtime request. Answer:General Meeting. . From 2016-04-05 17:21:00 To 2016-04-05 18:21:00 for 1 Hours. Worked to be done:Unit Testing",
+    "2016-04-06 11:36:31"
+]
+,[
+    "l, a ",
+    "(Final Approver) Approved a l's overtime request. From 2016-04-05 17:21:00 To 2016-04-05 18:21:00 for 1 Hours. Worked to be done:Unit Testing",
+    "2016-04-06 11:36:57"
+]
+,[
+    "l, a ",
+    " Created New Employee (John Balder).",
+    "2016-04-06 13:30:17"
+]
+,[
+    "l, a ",
+    " Added Education to (Balder, John -).",
+    "2016-04-06 13:31:05"
+]
+,[
+    "l, a ",
+    " Modified an Education of (Balder, John -).",
+    "2016-04-06 13:31:14"
+]
+,[
+    "l, a ",
+    " Added Education to (Balder, John -).",
+    "2016-04-06 13:31:32"
+]
+,[
+    "l, a ",
+    "Deleted (Education) Delete this from John Balder.",
+    "2016-04-06 13:31:40"
+]
+,[
+    "l, a ",
+    " Added (Project Management) Skill to (Balder, John -).",
+    "2016-04-06 13:31:52"
+]
+,[
+    "l, a ",
+    " Added (HTML Development) Skill to (Balder, John -).",
+    "2016-04-06 13:31:58"
+]
+,[
+    "l, a ",
+    " Added Employement History (San Miguel Beer Company,Database Administrator) to (Balder, John -).",
+    "2016-04-06 13:33:04"
+]
+,[
+    "l, a ",
+    " Modified Employement History (San Miguel Corporation,Database Administrator) of (Balder, John -).",
+    "2016-04-06 13:33:19"
+]
+,[
+    "l, a ",
+    " Added (EMV Training) training to (Balder, John -).",
+    "2016-04-06 13:33:47"
+]
+,[
+    "l, a ",
+    " Added (Test Training) training to (Balder, John -).",
+    "2016-04-06 13:33:55"
+]
+,[
+    "l, a ",
+    "Deleted (Training) Test Training from John Balder.",
+    "2016-04-06 13:33:59"
+]
+,[
+    "l, a ",
+    " Added (TESDA NCII) Certification to (Balder, John -).",
+    "2016-04-06 13:34:21"
+]
+,[
+    "l, a ",
+    " Added (RED HAT) Certification to (Balder, John -).",
+    "2016-04-06 13:34:33"
+]
+,[
+    "l, a ",
+    "Deleted (Certifications) RED HAT from John Balder.",
+    "2016-04-06 13:34:38"
+]
+,[
+    "l, a ",
+    " Added Emergency Contact (Martha Wayne) to (Balder, John -).",
+    "2016-04-06 13:35:05"
+]
+,[
+    "l, a ",
+    " Modified an Emergency Contact (Martha Wayne) of (Balder, John -).",
+    "2016-04-06 13:35:18"
+]
+,[
+    "l, a ",
+    " Added Emergency Contact (Delete this -) to (Balder, John -).",
+    "2016-04-06 13:35:32"
+]
+,[
+    "l, a ",
+    "Deleted (Emergency Contact) Delete this - from John Balder.",
+    "2016-04-06 13:35:37"
+]
+,[
+    "l, a ",
+    " Uploaded (Asset Activity Reports.csv) to (Balder, John -).",
+    "2016-04-06 13:35:50"
+]
+,[
+    "l, a ",
+    " Uploaded (Purchase Order.xlsx) to (Balder, John -).",
+    "2016-04-06 13:36:02"
+]
+,[
+    "l, a ",
+    "Deleted (File) Purchase Order.xlsx from John Balder.",
+    "2016-04-06 13:36:07"
+]
+,[
+    "l, a ",
+    " Modified Employee Personal Information (John Balder).",
+    "2016-04-06 14:01:48"
+]
+,[
+    "Balder, John -",
+    "John Balder filed a leave (Sick Leave) request. From 2016-05-08 to 2016-05-10. Reason: Flu",
+    "2016-04-06 14:03:05"
+]
+,[
+    "l, a ",
+    "(Supervisor) queried John Balder's Leave request. Query:Bring a medical certificate.. (Sick Leave) From 2016-05-08 To 2016-05-10. Reason for leave: Flu",
+    "2016-04-06 14:07:00"
+]
+,[
+    "Balder, John -",
+    "Answered (Supervisor) a l's Query for Leave request. Answer:Noted sir..  (Sick Leave) From 2016-05-08 To 2016-05-10. Reason for leave: Flu",
+    "2016-04-06 14:07:28"
+]
+,[
+    "l, a ",
+    "(Supervisor) Approved John Balder's leave (Sick Leave) request. From 2016-05-08 To 2016-05-10. Reason for leave: Flu",
+    "2016-04-06 14:07:54"
+]
+,[
+    "Wayne, Damian ",
+    "(Final Approver) Approved John Balder's leave (Sick Leave) request. From 2016-05-08 To 2016-05-10. Reason for leave: Flu",
+    "2016-04-06 14:10:07"
+]
+,[
+    "Wayne, Damian ",
+    "(Final Approver) Rejected a l's official business request. The reason given is 'Invalid Reason.'. Destination: Japan. Purpose: Go to Enchanted Kingdom during 2016-03-31 - 2016-04-01",
+    "2016-04-06 14:14:31"
+]
+,[
+    "Balder, John -",
+    "John Balder filed an attendance adjustment request. Add 2016-04-04 08:30:00-2016-04-04 17:30:00",
+    "2016-04-06 14:20:54"
+]
+,[
+    "l, a ",
+    "(Supervisor) Approved John Balder's attendance adjustment request. Add -",
+    "2016-04-06 14:22:09"
+]
+,[
+    "Wayne, Damian ",
+    "(Final Approver) Approved John Balder's attendance adjustment request. Add -",
+    "2016-04-06 14:29:24"
+]
+,[
+    "Wayne, Damian ",
+    "(Final Approver) Approved John Balder's attendance adjustment request. Add 2016-04-04 08:30:00-2016-04-04 17:30:00",
+    "2016-04-06 14:40:17"
+]
+,[
+    "Wayne, Damian ",
+    "(Final Approver) Approved John Balder's attendance adjustment request. Add 2016-04-04 08:30:00-2016-04-04 17:30:00",
+    "2016-04-06 14:46:27"
+]
+,[
+    "Balder, John -",
+    "John Balder filed an attendance adjustment request. From 2016-04-06 14:47:31-2016-04-06 14:47:38 to 2016-04-06 08:30:00-2016-04-06 14:47:00",
+    "2016-04-06 14:48:14"
+]
+,[
+    "l, a ",
+    "(Supervisor) Approved John Balder's attendance adjustment request. From 2016-04-06 14:47:31-2016-04-06 14:47:38 to 2016-04-06 08:30:00-2016-04-06 14:47:00. Adjustment Reason:Server is down.",
+    "2016-04-06 14:49:01"
+]
+,[
+    "Wayne, Damian ",
+    "(Final Approver) Approved John Balder's attendance adjustment request. From 2016-04-06 14:47:31-2016-04-06 14:47:38 to 2016-04-06 08:30:00-2016-04-06 14:47:00. Adjustment Reason:Server is down.",
+    "2016-04-06 14:51:34"
+]
+,[
+    "Balder, John -",
+    "John Balder filed a shift change request. From 08:30:00-17:30:00 to 09:00:00-18:00:00 during 2016-05-01 - 2016-05-31",
+    "2016-04-06 14:53:44"
+]
+,[
+    "l, a ",
+    "(Supervisor) Approved John Balder's change shift request. From 08:30:00-17:30:00 to 09:00:00-18:00:00 during 2016-05-01 - 2016-05-31",
+    "2016-04-06 14:54:10"
+]
+,[
+    "Wayne, Damian ",
+    "(Final Approver) Approved John Balder's change shift request. From 08:30:00-17:30:00 to 09:00:00-18:00:00 during 2016-05-01 - 2016-05-31",
+    "2016-04-06 14:55:01"
+]
+,[
+    "Balder, John -",
+    "John Balder filed an official business request. Destination: Tagaytay. Purpose: Client Meeting. during 2016-04-06 - 2016-04-06",
+    "2016-04-06 14:58:52"
+]
+,[
+    "l, a ",
+    "(Supervisor) Approved John Balder's official business request. Destination: Tagaytay. Purpose: Client Meeting. during 2016-04-06 - 2016-04-06",
+    "2016-04-06 14:59:22"
+]
+,[
+    "Wayne, Damian ",
+    "(Final Approver) Approved John Balder's official business request. Destination: Tagaytay. Purpose: Client Meeting. during 2016-04-06 - 2016-04-06",
+    "2016-04-06 15:00:37"
+]
+,[
+    "l, a ",
+    " Uploaded (Attendance Report-2016-04-06 (2).xlsx) to company files.",
+    "2016-04-06 15:33:19"
+]
+,[
+    "l, a ",
+    "Deleted Company File bg (2).jpg.",
+    "2016-04-06 15:33:27"
+]
+,[
+    "l, a ",
+    "(Final Approver) Approved a l's official business request. Destination: Japan. Purpose: Go to Enchanted Kingdom during 2016-03-31 - 2016-04-01",
+    "2016-04-06 16:04:46"
+]
+,[
+    "l, a ",
+    "(Supervisor) Approved John  Jones's change shift request. From 10:00:00-00:00:00 to 02:00:00-05:00:00 during 2013-12-30 - 2015-11-29",
+    "2016-04-06 16:05:27"
+]
+,[
+    "l, a ",
+    "(Final Approver) Approved a l's official business request. Destination: Neverland. Purpose: well. during 2016-03-23 - 2016-03-25",
+    "2016-04-06 16:07:51"
+]
+,[
+    "l, a ",
+    "(Final Approver) Approved a l's attendance adjustment request. From 2016-03-15 13:51:54-2016-03-15 13:53:31 to 2016-03-15 08:51:00-2016-03-15 13:53:00. Adjustment Reason:HEll Yeah...",
+    "2016-04-06 16:08:31"
+]
+,[
+    "l, a ",
+    "(Final Approver) Approved John  Jones's change shift request. From 10:00:00-00:00:00 to 02:00:00-05:00:00 during 2013-12-30 - 2015-11-29",
+    "2016-04-06 16:14:22"
+]
+,[
+    "l, a ",
+    "(Supervisor) Approved John  Jones's change shift request. From 00:00:00-00:00:00 to 00:00:00-10:00:00 during 2015-11-30 - 2015-11-30",
+    "2016-04-06 16:14:59"
+]
+,[
+    "l, a ",
+    "(Final Approver) Approved a l's attendance adjustment request. From 2016-03-23 10:24:20-2016-03-23 10:24:35 to 2016-03-23 10:24:00-2016-03-29 18:24:00. Adjustment Reason:hjkl",
+    "2016-04-06 16:16:02"
+]
+,[
+    "l, a ",
+    "(Final Approver) Approved John  Jones's change shift request. From 00:00:00-00:00:00 to 00:00:00-10:00:00 during 2015-11-30 - 2015-11-30",
+    "2016-04-06 16:16:51"
+]
+,[
+    "l, a ",
+    "(Final Approver) Approved a l's change shift request. From 08:30:00-17:30:00 to 13:30:00-21:30:00 during 2016-03-21 - 2016-03-25",
+    "2016-04-06 16:17:28"
+]
+,[
+    "l, a ",
+    "(Final Approver) Approved a l's attendance adjustment request. From 2016-03-23 10:24:20-2016-03-23 10:24:35 to 2016-03-23 10:24:00-2016-03-29 18:24:00. Adjustment Reason:hjkl",
+    "2016-04-06 16:17:58"
+]
+,[
+    "l, a ",
+    "(Final Approver) Approved a l's attendance adjustment request. From 2016-03-23 10:24:20-2016-03-23 10:24:35 to 2016-03-23 10:24:00-2016-03-29 18:24:00. Adjustment Reason:hjkl",
+    "2016-04-06 16:18:25"
+]
+,[
+    "l, a ",
+    "(Final Approver) Approved a l's attendance adjustment request. From 2016-03-23 10:24:20-2016-03-23 10:24:35 to 2016-03-23 10:24:00-2016-03-29 18:24:00. Adjustment Reason:hjkl",
+    "2016-04-06 16:19:00"
+]
+,[
+    "l, a ",
+    "(Final Approver) Approved a l's overtime request. From 2016-03-30 11:24:00 To 2016-03-30 14:24:00 for 1 Hours. Worked to be done:asd",
+    "2016-04-06 16:19:35"
+]
+,[
+    "l, a ",
+    "(Final Approver) Approved a l's leave (Leave Without Pay) request. From 2016-01-01 To 2016-01-02. Reason for leave: j",
+    "2016-04-06 16:20:15"
+]
+,[
+    "l, a ",
+    "Modified attendance of John Pauls Balderas. From 2016-03-30 08:54:00 - 2016-03-30 08:54:00 To 2016-03-30 08:54:00 - 2016-03-30 17:54:00 ",
+    "2016-04-06 16:30:14"
+]
+	,[
+    "l, a ",
+    " Added (RED HAT) Certification to (albelda, trix ).",
+    "2016-04-08 11:12:20"
+]
+	]
+}
