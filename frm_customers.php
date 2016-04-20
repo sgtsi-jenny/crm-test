@@ -26,6 +26,7 @@
     $org_industries=$con->myQuery("SELECT id,name FROM org_industry")->fetchAll(PDO::FETCH_ASSOC);
     $org_ratings=$con->myQuery("SELECT id,name FROM org_ratings")->fetchAll(PDO::FETCH_ASSOC);
     $org_types=$con->myQuery("SELECT id,name FROM org_types")->fetchAll(PDO::FETCH_ASSOC);
+    $contact=$con->myQuery("SELECT id,CONCAT(fname,' ',lname) as name from contacts")->fetchAll(PDO::FETCH_ASSOC);
     $user=$con->myQuery("SELECT id, CONCAT(last_name,' ',first_name,' ',middle_name) as name FROM users")->fetchAll(PDO::FETCH_ASSOC);
 
 	makeHead("Customer Form");
@@ -61,9 +62,44 @@
                                 <input type='hidden' name='id' value='<?php echo !empty($organization)?$organization['id']:""?>'>
                           
                                 <div class='form-group'>
-                                    <label class='col-sm-12 col-md-3 control-label'> Organization Name*</label>
+                                    <label class='col-sm-12 col-md-3 control-label'> Corporate Name*</label>
                                     <div class='col-sm-12 col-md-9'>
-                                        <input type='text' class='form-control' name='org_name' placeholder='Enter Organization Name' value='<?php echo !empty($organization)?$organization['org_name']:"" ?>' required>
+                                        <input type="text" class="form-control" name="corp_name" placeholder="Enter Corporate Name" value="<?php echo !empty($organization)?$organization["org_name"]:"" ?>" required>
+                                    </div>
+                                </div>
+
+                                <div class='form-group'>
+                                    <label class='col-sm-12 col-md-3 control-label'> Registered Name*</label>
+                                    <div class='col-sm-12 col-md-9'>
+                                        <input type="text" class="form-control" name="reg_name" placeholder="Enter Registered Name" value="<?php echo !empty($organization)?$organization["reg_name"]:"" ?>" required>
+                                    </div>
+                                </div>
+
+                                <div class='form-group'>
+                                    <label class='col-sm-12 col-md-3 control-label'> Trade Name*</label>
+                                    <div class='col-sm-12 col-md-9'>
+                                        <input type="text" class="form-control" name="trade_name" placeholder="Enter Trade Name" value="<?php echo !empty($organization)?$organization["trade_name"]:"" ?>" required>
+                                    </div>
+                                </div>
+
+                                <div class='form-group'>
+                                    <label class='col-sm-12 col-md-3 control-label'> TIN Number*</label>
+                                    <div class='col-sm-12 col-md-9'>
+                                        <input type="text" class="form-control" name="tin_num" placeholder="Enter TIN Number" value="<?php echo !empty($organization)?$organization["tin_num"]:"" ?>" required>
+                                    </div>
+                                </div>
+
+                                <div class='form-group'>
+                                    <label class='col-sm-12 col-md-3 control-label'> Legal Address*</label>
+                                    <div class='col-sm-12 col-md-9'>
+                                        <input type='text' class='form-control' name='address' placeholder='Enter Address' value='<?php echo !empty($organization)?$organization['address']:"" ?>' required>
+                                    </div>
+                                </div>
+
+                                <div class='form-group'>
+                                    <label class='col-sm-12 col-md-3 control-label'> Telephone Number</label>
+                                    <div class='col-sm-12 col-md-9'>
+                                        <input type='text' class='form-control' name='tel_num' placeholder='Enter Telephone Number' value='<?php echo !empty($organization)?$organization['tel_num']:"" ?>'>
                                     </div>
                                 </div>
 
@@ -81,10 +117,29 @@
                                     </div>
                                 </div>
 
-                                <div class='form-group'>
-                                    <label class='col-sm-12 col-md-3 control-label'> Address</label>
+                                <!-- <div class='form-group'>
+                                    <label class='col-sm-12 col-md-3 control-label'> Contact Person</label>
                                     <div class='col-sm-12 col-md-9'>
-                                        <input type='text' class='form-control' name='address' placeholder='Enter Address' value='<?php echo !empty($organization)?$organization['address']:"" ?>'>
+                                        <input type='text' class='form-control' name='c_num' placeholder='Enter Contact Person' value='<?php echo !empty($organization)?$organization['c_num']:"" ?>'>
+                                    </div>
+                                </div> -->
+
+                                <div class='form-group'>
+                                    <label class='col-sm-12 col-md-3 control-label'> Contact Name</label>
+                                    <div class='col-sm-12 col-md-9'>
+                                        
+                                        <div class='row'>
+                                            <div class='col-sm-11'>
+                                                <select class='form-control' name='contact_id' data-placeholder="Select a Contact name" <?php echo!(empty($organization))?"data-selected='".$organization['contact_id']."'":NULL ?>>
+                                                    <?php
+                                                        echo makeOptions($contact);
+                                                    ?>
+                                                </select>
+                                            </div>
+                                            <div class='col-ms-1'>
+                                                <a href='' class='btn btn-sm btn-success'><span class='fa  fa-plus'></span></a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
 
@@ -94,7 +149,7 @@
                                         
                                         <div class='row'>
                                             <div class='col-sm-11'>
-                                                <select class='form-control select2' name='industry' data-placeholder="Select a Industry" <?php echo!(empty($organization))?"data-selected='".$organization['industry']."'":NULL ?>>
+                                                <select class='form-control' name='industry' data-placeholder="Select a Industry" <?php echo!(empty($organization))?"data-selected='".$organization['industry']."'":NULL ?>>
                                                     <?php
                                                         echo makeOptions($org_industries);
                                                     ?>
@@ -115,7 +170,7 @@
                                         
                                         <div class='row'>
                                             <div class='col-sm-11'>
-                                                <select class='form-control select2' name='rating' data-placeholder="Select a Rating" <?php echo!(empty($organization))?"data-selected='".$organization['rating']."'":NULL ?>>
+                                                <select class='form-control' name='rating' data-placeholder="Select a Rating" <?php echo!(empty($organization))?"data-selected='".$organization['rating']."'":NULL ?>>
                                                     <?php
                                                         echo makeOptions($org_ratings);
                                                     ?>
@@ -134,7 +189,7 @@
                                         
                                         <div class='row'>
                                             <div class='col-sm-11'>
-                                                <select class='form-control select2' name='org_type' data-placeholder="Select a Organization Type" <?php echo!(empty($organization))?"data-selected='".$organization['org_type']."'":NULL ?>>
+                                                <select class='form-control' name='org_type' data-placeholder="Select a Organization Type" <?php echo!(empty($organization))?"data-selected='".$organization['org_type']."'":NULL ?>>
                                                     <?php
                                                         echo makeOptions($org_types);
                                                     ?>
@@ -147,30 +202,24 @@
                                     </div>
                                 </div>
 
-                                <div class='form-group'>
-                                    <label class='col-sm-12 col-md-3 control-label'> User*</label>
+                                <!-- <div class='form-group'>
+                                    <label class='col-sm-12 col-md-3 control-label' > User *</label>
                                     <div class='col-sm-12 col-md-9'>
                                         
                                         <div class='row'>
                                             <div class='col-sm-11'>
-                                             <select class='form-control select2' name='assigned_to' data-placeholder="Select a user" <?php echo!(empty($organization))?"data-selected='".$organization['assigned_to']."'":NULL ?> required>
+                                            <select id="disabledSelect" class='form-control' name='assigned_to' data-placeholder="Select a user" <?php echo!(empty($opportunity))?"data-selected='".$opportunity['assigned_to']."'":"data-selected='".$_SESSION[WEBAPP]['user']['id']."'" ?> required>
                                                 <?php
                                                     echo makeOptions($user);
                                                 ?>
                                             </select>
                                             </div>
-                                            <?php
-                                                if($_SESSION[WEBAPP]['user']['user_type']==1):
-                                            ?>
                                             <div class='col-ms-1'>
                                             <a href='frm_users.php' class='btn btn-sm btn-success'><span class='fa fa-plus'></span></a>
-                                            </div>
-                                            <?php
-                                                endif;
-                                            ?>
+                                    </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
 
                                 <div class='form-group'>
                                     <label class='col-sm-12 col-md-3 control-label'> Annual Revenue</label>
@@ -182,9 +231,9 @@
                                 <div class='form-group'>
                                     <label class='col-sm-12 col-md-3 control-label'> Description</label>
                                     <div class='col-sm-12 col-md-9'>
-                                        <textarea class='form-control ' name='description' value=''><?php echo !empty($organization)?$organization['description']:"" ?></textarea>
+                                        <textarea class='form-control' name='description' value='<?php echo !empty($organization)?$organization['description']:"" ?>'></textarea>
                                     </div>
-                                </div>                             
+                                </div>                              
                                 
 
                                 <div class='form-group'>

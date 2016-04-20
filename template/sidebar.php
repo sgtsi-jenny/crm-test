@@ -9,23 +9,24 @@
                 <i class="fa fa-dashboard"></i> <span>Dashboard</span>
               </a>
             </li>
-            <li class="<?php echo (substr($_SERVER['PHP_SELF'],strrpos($_SERVER['PHP_SELF'], "/")+1))=="time_management.php"?"active":"";?>">
+            <li class="<?php echo (substr($_SERVER['PHP_SELF'],strrpos($_SERVER['PHP_SELF'], "/")+1))=="my_cal.php"?"active":"";?>">
               <a href="my_cal.php">
                 <i class="fa fa-calendar-o"></i> <span>Calendar</span>
               </a>
             </li>
-            <li class="<?php echo (substr($_SERVER['PHP_SELF'],strrpos($_SERVER['PHP_SELF'], "/")+1))=="time_management.php"?"active":"";?>">
+
+            <li class="<?php echo (substr($_SERVER['PHP_SELF'],strrpos($_SERVER['PHP_SELF'], "/")+1))=="customers.php"?"active":"";?>">
               <a href="customers.php">
                 <i class="fa fa-users"></i> <span>Customers</span>
               </a>
             </li>
-            <li class="<?php echo (substr($_SERVER['PHP_SELF'],strrpos($_SERVER['PHP_SELF'], "/")+1))=="time_management.php"?"active":"";?>">
+            <li class="<?php echo (substr($_SERVER['PHP_SELF'],strrpos($_SERVER['PHP_SELF'], "/")+1))=="opportunities.php"?"active":"";?>">
               <a href="opportunities.php">
                 <i class="fa fa-lightbulb-o"></i> <span>Oppurtunities</span>
               </a>
             </li>
-            <li class="<?php echo (substr($_SERVER['PHP_SELF'],strrpos($_SERVER['PHP_SELF'], "/")+1))=="time_management.php"?"active":"";?>">
-              <a href="opportunnities.php">
+            <li class="<?php echo (substr($_SERVER['PHP_SELF'],strrpos($_SERVER['PHP_SELF'], "/")+1))=="contacts.php"?"active":"";?>">
+              <a href="contacts.php">
                 <i class="fa fa-phone"></i> <span>Contacts</span>
               </a>
             </li>

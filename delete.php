@@ -5,10 +5,10 @@
 		toLogin();
 		die();
 	}
-	if(!AllowUser(array(1))){
+	if(!AllowUser(array(1,2))){
         redirect("index.php");
     }
-	if(empty($_GET['id']) || empty($_GET['t'] || !is_numeric($_GET['id']))){
+	if(empty($_GET['id']) || empty($_GET['t'])){
 		redirect('index.php');
 		die;
 	}
@@ -17,179 +17,103 @@
 
 		$table="";
 		switch ($_GET['t']) {
-			case 't':
-				$table='trainings';
-				$page='trainings.php';
-
-				$audit_details=$con->myQuery("SELECT name FROM trainings WHERE id=?",array($_GET['id']))->fetch(PDO::FETCH_ASSOC);
-				$audit_message="Deleted {$audit_details['name']} from trainings.";
-
-			break;
-			case 'u':
-				$table="users";
-				$page="users.php";
-
-				$audit_details=$con->myQuery("SELECT u.username as username FROM users u WHERE u.id=?",array($_GET['id']))->fetch(PDO::FETCH_ASSOC);
-				$audit_message="Deleted {$audit_details['username']} from users.";
-
+			case 'org':
+				$table="organizations";
+				$page="organizations.php";
 				break;
-			case 'dep':
+			case 'opp':
+				$table="opportunities";
+				$page="opportunities.php";
+				break;
+			case 'org_opp':
+				$table="opportunities";
+				$page="org_opp.php?id={$_GET['id']}";
+				break;
+			case 'prod':
+				$table="products";
+				$page="products.php";
+				break;
+			case 'oprod':
+				$table="opp_products";
+				$page="opp_products.php?id={$_GET['id']}";
+				break;
+			case 'ocon':
+				$table="opp_contacts";
+				$page="opp_contact_persons.php?id={$_GET['opp_id']}";
+				break;
+			case 'odocs':
+				$table="documents";				
+				$page="opp_documents.php?id={$_GET['opp_id']}";
+				break;
+			case 'oquotes':
+				$table="quotes";
+				$page="opp_quotes.php?id={$_GET['opp_id']}";
+				break;
+			case 'eve':
+				$table="events";
+				$page="events.php";
+				break;
+			case 'l':
+				$table="locations";
+				$page="locations.php";
+				break;
+			case 'man':
+				$table="manufacturers";
+				$page="manufacturers.php";
+				break;
+			case 'co':
+				$table="contacts";
+				$page="contacts.php";
+				break;
+			case 'qo':
+				$table="quotes";
+				$page="quotes.php";
+				break;
+			case 'do':
+				$table="documents";
+				$page="documents.php";
+				break;
+			case 'ut':
+				$table="user_types";
+				$page="settings.php";
+				break;
+			case 'os':
+				$table="opp_statuses";
+				$page="settings.php";
+				break;
+			case 'lo':
+				$table="locations";
+				$page="settings.php";
+				break;
+			case 'ra':
+				$table="org_ratings";
+				$page="settings.php";
+				break;
+			case 'dpmt':
 				$table="departments";
-				$page="departments.php";
-
-				$audit_details=$con->myQuery("SELECT name FROM departments WHERE id=?",array($_GET['id']))->fetch(PDO::FETCH_ASSOC);
-				$audit_message="Deleted {$audit_details['name']} from departments.";
-
+				$page="settings.php";
 				break;
-			case 'ltyp':
-				$table="leaves";
-				$page="leave_type.php";
-
-				$audit_details=$con->myQuery("SELECT name FROM leaves WHERE id=?",array($_GET['id']))->fetch(PDO::FETCH_ASSOC);
-				$audit_message="Deleted {$audit_details['name']} from leaves.";
-
+			case 'orgt':
+				$table="org_types";
+				$page="settings.php";
 				break;
-			case 'skl':
-				$table="skills";
-				$page="skills.php";
-
-				$audit_details=$con->myQuery("SELECT name FROM skills WHERE id=?",array($_GET['id']))->fetch(PDO::FETCH_ASSOC);
-				$audit_message="Deleted {$audit_details['name']} from skills.";				
+			case 'oppt':
+				$table="opp_types";
+				$page="settings.php";
 				break;
-			case 'educL':
-				$table="education_level";
-				$page="education_level.php";
-
-				$audit_details=$con->myQuery("SELECT name FROM education_level WHERE id=?",array($_GET['id']))->fetch(PDO::FETCH_ASSOC);
-				$audit_message="Deleted {$audit_details['name']} from skills.";
-
-				break;
-			case 'estat':
-				$table="employment_status";
-				$page="employment_status.php";
-
-				$audit_details=$con->myQuery("SELECT name FROM {$table} WHERE id=?",array($_GET['id']))->fetch(PDO::FETCH_ASSOC);
-				$audit_message="Deleted {$audit_details['name']} from employment status.";
-				break;
-			case 'jt':
-				$table="job_title";
-				$page="job_title.php";
-
-				$audit_details=$con->myQuery("SELECT description FROM {$table} WHERE id=?",array($_GET['id']))->fetch(PDO::FETCH_ASSOC);
-				$audit_message="Deleted {$audit_details['description']} from job titles.";
-				break;
-			case 'cert':
-				$table="certifications";
-				$page="certifications.php";
-
-				$audit_details=$con->myQuery("SELECT name FROM {$table} WHERE id=?",array($_GET['id']))->fetch(PDO::FETCH_ASSOC);
-				$audit_message="Deleted {$audit_details['name']} from certifications.";
-				break;
-			case 'taxS':
-				$table="tax_status";
-				$page="tax_status.php";
-
-				$audit_details=$con->myQuery("SELECT description FROM {$table} WHERE id=?",array($_GET['id']))->fetch(PDO::FETCH_ASSOC);
-				$audit_message="Deleted {$audit_details['description']} from tax status.";
-				break;
-			case 'pg':
-				$table="pay_grade";
-				$page="pay_grade.php";
-
-				$audit_details=$con->myQuery("SELECT level FROM {$table} WHERE id=?",array($_GET['id']))->fetch(PDO::FETCH_ASSOC);
-				$audit_message="Deleted {$audit_details['level']} from pay grade.";
-				break;
-			case 'e':
-				$table="employees";
-				$page="employees.php";
-
-				$audit_details=$con->myQuery("SELECT CONCAT(first_name,' ',last_name) AS full_name FROM {$table} WHERE id=?",array($_GET['id']))->fetch(PDO::FETCH_ASSOC);
-				$audit_message="Deleted {$audit_details['full_name']} from employees.";
-
-				break;
-			case 'te':
-				$table="employees";
-				$page="terminated_employees.php";
-
-				$audit_details=$con->myQuery("SELECT CONCAT(first_name,' ',last_name) AS full_name FROM {$table} WHERE id=?",array($_GET['id']))->fetch(PDO::FETCH_ASSOC);
-				$audit_message="Deleted {$audit_details['full_name']} from terminated employees.";
-
-				break;
-			case 'ee':
-				$table="employees_education";
-				$page="frm_employee.php?id={$_GET['e_id']}&tab={$_GET['tab']}";
-
-				$audit_details=$con->myQuery("SELECT CONCAT(e.first_name,' ',e.last_name) AS full_name,a.institute as name FROM {$table} a JOIN employees e ON e.id=a.employee_id WHERE a.id=?",array($_GET['id']))->fetch(PDO::FETCH_ASSOC);
-				$audit_message="Deleted (Education) {$audit_details['name']} from {$audit_details['full_name']}.";
-				break;
-			case 'es':
-				$table="employees_skills";
-				$page="frm_employee.php?id={$_GET['e_id']}&tab={$_GET['tab']}";
-
-				$audit_details=$con->myQuery("SELECT CONCAT(e.first_name,' ',e.last_name) AS full_name,b.name FROM {$table} a JOIN employees e ON e.id=a.employee_id JOIN skills b ON b.id=a.skills_id WHERE a.id=?",array($_GET['id']))->fetch(PDO::FETCH_ASSOC);
-				$audit_message="Deleted (Skill) {$audit_details['name']} from {$audit_details['full_name']}.";
-				break;
-			case 'eeh':
-				$table="employees_employment_history";
-				$page="frm_employee.php?id={$_GET['e_id']}&tab={$_GET['tab']}";
-
-				$audit_details=$con->myQuery("SELECT CONCAT(e.first_name,' ',e.last_name) AS full_name,a.company,a.position  FROM {$table} a JOIN employees e ON e.id=a.employee_id WHERE a.id=?",array($_GET['id']))->fetch(PDO::FETCH_ASSOC);
-				$audit_message="Deleted (Employment History) {$audit_details['position']} ({$audit_details['company']}) from {$audit_details['full_name']}.";
-				break;
-			case 'eec':
-				$table="employees_emergency_contacts";
-				$page="frm_employee.php?id={$_GET['e_id']}&tab={$_GET['tab']}";
-
-				$audit_details=$con->myQuery("SELECT CONCAT(e.first_name,' ',e.last_name) AS full_name,CONCAT(a.first_name,' ',a.last_name) as contact FROM {$table} a JOIN employees e ON e.id=a.employee_id WHERE a.id=?",array($_GET['id']))->fetch(PDO::FETCH_ASSOC);
-				$audit_message="Deleted (Emergency Contact) {$audit_details['contact']} from {$audit_details['full_name']}.";
-				break;
-			case 'eal':
-				$table="employees_available_leaves";
-				$page="frm_employee.php?id={$_GET['e_id']}&tab={$_GET['tab']}";
-
-				$audit_details=$con->myQuery("SELECT CONCAT(e.first_name,' ',e.last_name) AS full_name,b.name FROM {$table} a JOIN employees e ON e.id=a.employee_id JOIN leaves b ON b.id=a.leave_id WHERE a.id=?",array($_GET['id']))->fetch(PDO::FETCH_ASSOC);
-				$audit_message="Deleted (Leave) {$audit_details['name']} from {$audit_details['full_name']}.";
-
-				break;
-			case 'et':
-				$table="employees_trainings";
-				$page="frm_employee.php?id={$_GET['e_id']}&tab={$_GET['tab']}";
-
-				$audit_details=$con->myQuery("SELECT CONCAT(e.first_name,' ',e.last_name) AS full_name,b.name FROM {$table} a JOIN employees e ON e.id=a.employee_id JOIN trainings b ON b.id=a.training_id WHERE a.id=?",array($_GET['id']))->fetch(PDO::FETCH_ASSOC);
-				$audit_message="Deleted (Training) {$audit_details['name']} from {$audit_details['full_name']}.";
-				break;
-			case 'ec':
-				$table="employees_certifications";
-				$page="frm_employee.php?id={$_GET['e_id']}&tab={$_GET['tab']}";
-
-				$audit_details=$con->myQuery("SELECT CONCAT(e.first_name,' ',e.last_name) AS full_name,b.name FROM {$table} a JOIN employees e ON e.id=a.employee_id JOIN certifications b ON b.id=a.certification_id WHERE a.id=?",array($_GET['id']))->fetch(PDO::FETCH_ASSOC);
-				$audit_message="Deleted (Certifications) {$audit_details['name']} from {$audit_details['full_name']}.";
-				break;
-			case 'ef':
-				$table="employees_files";
-				$page="frm_employee.php?id={$_GET['e_id']}&tab={$_GET['tab']}";
-
-
-				$audit_details=$con->myQuery("SELECT CONCAT(e.first_name,' ',e.last_name) AS full_name,a.file_name FROM {$table} a JOIN employees e ON e.id=a.employee_id WHERE a.id=?",array($_GET['id']))->fetch(PDO::FETCH_ASSOC);
-				$audit_message="Deleted (File) {$audit_details['file_name']} from {$audit_details['full_name']}.";
-				break;
-			case 'cf':
-				$table="company_files";
-				$page="company_files.php";
-
-				$audit_details=$con->myQuery("SELECT a.file_name FROM {$table} a  WHERE a.id=?",array($_GET['id']))->fetch(PDO::FETCH_ASSOC);
-				$audit_message="Deleted Company File {$audit_details['file_name']}.";
-				
+			case 'fu':
+				$table="files";
+				$page="assets.php";
+				if(!empty($_GET['a'])){
+					#asset_id
+					$page="view_asset.php?id={$_GET['a']}";
+				}
 				break;
 			default:
 				redirect("index.php");
 				break;
 		}
-
-		
 		$con->myQuery("UPDATE {$table} SET is_deleted=1 WHERE id=?",array($_GET['id']));
-
-		insertAuditLog($_SESSION[WEBAPP]['user']['last_name'].", ".$_SESSION[WEBAPP]['user']['first_name']." ".$_SESSION[WEBAPP]['user']['middle_name'],$audit_message);
 		Alert("Delete Successful.","success");
 		redirect($page);
 

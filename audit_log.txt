@@ -1475,5 +1475,10 @@
     " Added (RED HAT) Certification to (albelda, trix ).",
     "2016-04-08 11:12:20"
 ]
+,[
+    "Bercasio, Jenny -",
+    "",
+    "2016-04-20 10:53:13"
+]
 	]
 }

@@ -12,7 +12,12 @@
       <div class="login-logo">
         <img src="" class='img-responsive'>
       </div><!-- /.login-logo -->
-      <div class="login-box-body">
+      <div class='row'>
+        <div class='panel panel-primary'>
+          <div class='panel-heading text-center'>
+            <h4><b>Customer Relationship Management</b></h4>
+          </div>
+        <div class="login-box-body">
         <?php
           Alert();
         ?>
@@ -36,9 +41,11 @@
           </div>
         </form>
 
-
-      </div><!-- /.login-box-body -->
+      </div>
+      </div>
+      </div>
     </div><!-- /.login-box -->
+
 
 <?php
   Modal();

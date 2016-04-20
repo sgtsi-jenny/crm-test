@@ -19,7 +19,7 @@
     <!-- AdminLTE Skins. Choose a skin from the css/skins
          folder instead of downloading all of them to reduce the load. -->
     
-    <link rel="stylesheet" href="dist/css/skins/skin-yellow.min.css">
+    <link rel="stylesheet" href="dist/css/skins/skin-brand-light.min.css">
     <link rel="stylesheet" href="dist/css/bootstrap-datepicker.css">
     <link rel="stylesheet" href="plugins/datatables/dataTables.bootstrap.css">
 
@@ -52,7 +52,7 @@ if($pageTitle=="Login"):
 <?php
 else:
 ?>
-    <body class="hold-transition skin-yellow fixed sidebar-mini">
+    <body class="hold-transition skin-brand-light fixed sidebar-mini">
     <div class="wrapper">
 <?php
 endif;

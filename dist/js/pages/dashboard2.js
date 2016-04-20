@@ -103,8 +103,8 @@ $(function () {
     },
     {
       value: 500,
-      color: "#00a65a",
-      highlight: "#00a65a",
+      color: "#337ab7",
+      highlight: "#337ab7",
       label: "IE"
     },
     {
@@ -195,7 +195,7 @@ $(function () {
     },
     markerStyle: {
       initial: {
-        fill: '#00a65a',
+        fill: '#337ab7',
         stroke: '#111'
       }
     },

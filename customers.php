@@ -40,7 +40,7 @@
                   <div class="row">
                     <div class="col-sm-12">
                         <div class='col-ms-12 text-right'>
-                          <a href='frm_customers.php' class='btn btn-success'> Create New <span class='fa fa-plus'></span> </a>
+                          <a href='frm_customers.php' class='btn btn-brand'> Create New <span class='fa fa-plus'></span> </a>
                         </div>
                         <br/>
                         <table id='ResultTable' class='table table-bordered table-striped'>
@@ -84,7 +84,7 @@
                                                             elseif($key=='id'):
                                                         ?>                                                                          
                                                             <td>
-                                                                <a class='btn btn-sm btn-warning' href='frm_customers.php?id=<?php echo $value;?>'><span class='fa fa-pencil'></span></a>
+                                                                <a class='btn btn-sm btn-brand' href='frm_customers.php?id=<?php echo $value;?>'><span class='fa fa-pencil'></span></a>
                                                                 <a class='btn btn-sm btn-danger' href='delete.php?id=<?php echo $value?>&t=org' onclick='return confirm("This customer will be deleted.")'><span class='fa fa-trash'></span></a>
                                                             </td>
                                                         <?php
